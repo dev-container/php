@@ -1,7 +1,7 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/lcenchew/vscode-container-py)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/dev-container/php)
 
-# Develop in Container - Python
-A setup for working on python in a vscode or gitpod container.
+# Develop in Container - PHP
+A setup for working on PHP in a vscode or gitpod container.
 
 ## VS Code
 
